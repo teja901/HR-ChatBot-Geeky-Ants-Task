@@ -102,4 +102,4 @@ Returns top-matched employees.
 
 ## Demo
 - **Local Demo**: Run via `uvicorn main:app --reload` → open browser
-- Google Drive Video mp4 ====>  https://drive.google.com/file/d/1-D_7ATKQ8hV92Vzdq2uwjt6fuoyR9Gze/view?usp=drive_link
+- Google Drive Video mp4 ====>  https://drive.google.com/file/d/1-D_7ATKQ8hV92Vzdq2uwjt6fuoyR9Gze/view?usp=sharing
