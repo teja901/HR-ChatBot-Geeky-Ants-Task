@@ -1,0 +1,124 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "skills": ["Python", "React", "AWS"],
+      "experience_years": 5,
+      "projects": ["E-commerce Platform", "Healthcare Dashboard"],
+      "availability": "available"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "skills": ["Java", "Spring", "Docker"],
+      "experience_years": 4,
+      "projects": ["Banking System", "Insurance Portal"],
+      "availability": "busy"
+    },
+    {
+      "id": 3,
+      "name": "Sarah Chen",
+      "skills": ["Python", "TensorFlow", "PyTorch"],
+      "experience_years": 6,
+      "projects": ["Medical Diagnosis Platform", "X-ray Analysis"],
+      "availability": "available"
+    },
+    {
+      "id": 4,
+      "name": "Michael Rodriguez",
+      "skills": ["scikit-learn", "pandas", "ML"],
+      "experience_years": 4,
+      "projects": ["Patient Risk Prediction System", "Healthcare Data Compliance"],
+      "availability": "available"
+    },
+    {
+      "id": 5,
+      "name": "David Lee",
+      "skills": ["React Native", "Node.js", "MongoDB"],
+      "experience_years": 3,
+      "projects": ["Food Delivery App", "Social Media Platform"],
+      "availability": "available"
+    },
+    {
+      "id": 6,
+      "name": "Priya Sharma",
+      "skills": ["AWS", "Docker", "Kubernetes"],
+      "experience_years": 5,
+      "projects": ["Cloud Migration", "Microservices Architecture"],
+      "availability": "busy"
+    },
+    {
+      "id": 7,
+      "name": "John Doe",
+      "skills": ["Python", "Django", "Healthcare"],
+      "experience_years": 7,
+      "projects": ["Hospital Management System", "Clinical Trials Platform"],
+      "availability": "available"
+    },
+    {
+      "id": 8,
+      "name": "Emily Davis",
+      "skills": ["JavaScript", "Vue.js", "Firebase"],
+      "experience_years": 2,
+      "projects": ["E-learning Platform"],
+      "availability": "available"
+    },
+    {
+      "id": 9,
+      "name": "Carlos Gomez",
+      "skills": ["C++", "Embedded Systems", "IoT"],
+      "experience_years": 8,
+      "projects": ["Smart Home Devices"],
+      "availability": "busy"
+    },
+    {
+      "id": 10,
+      "name": "Fatima Ali",
+      "skills": ["Python", "NLP", "Transformers"],
+      "experience_years": 5,
+      "projects": ["Chatbot Development", "Healthcare NLP"],
+      "availability": "available"
+    },
+    {
+      "id": 11,
+      "name": "James Wilson",
+      "skills": ["Go", "Microservices", "AWS"],
+      "experience_years": 6,
+      "projects": ["Payment Gateway"],
+      "availability": "available"
+    },
+    {
+      "id": 12,
+      "name": "Sophia Turner",
+      "skills": ["React", "Node.js", "GraphQL"],
+      "experience_years": 3,
+      "projects": ["Travel Booking Platform"],
+      "availability": "busy"
+    },
+    {
+      "id": 13,
+      "name": "Hiro Tanaka",
+      "skills": ["Python", "ML", "Computer Vision"],
+      "experience_years": 4,
+      "projects": ["Face Recognition", "Medical Imaging"],
+      "availability": "available"
+    },
+    {
+      "id": 14,
+      "name": "Olivia Brown",
+      "skills": ["UI/UX", "Figma", "React"],
+      "experience_years": 2,
+      "projects": ["E-commerce Design Revamp"],
+      "availability": "available"
+    },
+    {
+      "id": 15,
+      "name": "Ahmed Khan",
+      "skills": ["AWS", "DevOps", "Docker"],
+      "experience_years": 5,
+      "projects": ["CI/CD Pipeline", "Cloud Deployment"],
+      "availability": "available"
+    }
+  ]
+}
